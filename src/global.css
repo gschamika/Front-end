@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --body-1: Inter;
+  --font-lato: Lato;
+  --poppins-h3-poppins-27px-semibold: Poppins;
+
+  /* font sizes */
+  --body-1-size: 14px;
+  --font-size-2xl: 21px;
+  --font-size-mid: 17px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-3xl: 22px;
+  --poppins-h3-poppins-27px-semibold-size: 27px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-darkorchid: #6b3cc9;
+  --color-ghostwhite: #faf8ff;
+  --neutral-600: #6f6c90;
+  --color-black: #000;
+  --color-chocolate: #f28d35;
+  --color-gray: #fdfdfd;
+
+  /* Gaps */
+  --gap-21xl: 40px;
+  --gap-xl: 20px;
+  --gap-6xs: 7px;
+  --gap-base-5: 15.5px;
+  --gap-109xl: 128px;
+  --gap-13xl: 32px;
+  --gap-45xl: 64px;
+  --gap-xs: 12px;
+  --gap-61xl: 80px;
+  --gap-9xl: 28px;
+  --gap-mini: 15px;
+  --gap-smi: 13px;
+  --gap-89xl: 108px;
+  --gap-8xl: 27px;
+  --gap-35xl: 54px;
+
+  /* Paddings */
+  --padding-21xl: 40px;
+  --padding-61xl: 80px;
+  --padding-xl: 20px;
+  --padding-lg: 18px;
+  --padding-33xl: 52px;
+  --padding-15xl: 34px;
+  --padding-5xl: 24px;
+  --padding-5xs: 8px;
+  --padding-7xs: 6px;
+  --padding-xs: 12px;
+  --padding-sm: 14px;
+  --padding-7xl: 26px;
+  --padding-9xs: 4px;
+
+  /* Border radiuses */
+  --br-6xs: 7px;
+  --br-9xs: 4px;
+}
